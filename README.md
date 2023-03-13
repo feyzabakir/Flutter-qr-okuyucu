@@ -1,6 +1,6 @@
 # qr_code_scanner
 
-A new Flutter project.
+Flutter kullanarak bir qr okuyucu tasarladım. Okuduğu qr koddan aldığı veriyi kontrol edip eğer url ise webview olarak uygulama içerisinde açıyoruz url değil ise de ekranda yazıyoruz.
 
 ## Getting Started
 
